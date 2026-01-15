@@ -28,6 +28,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 **I struggled with:** (repeat as needed)
 - If I am able to do "git add . && git commit -m "message"" at the same time.
+- I have to save the file locally before add and commit commands function.
 
 **I need the instructor to help me with:** (repeat as needed)
 - There might be an issue with letting me push twice, but I did the same command.
@@ -40,7 +41,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - The classroom powerpoint and picture from a personal X post.
   
 **I received help from the following people:** (repeat as needed)
-- No one.
+- Mr. Dang, for my saved changes/push issue.
 
 ---
 ## Copyrights and License
